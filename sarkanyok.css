@@ -28,3 +28,7 @@ body {
     text-align: right;
     
 }
+
+p {
+    text-align: justify;
+}
